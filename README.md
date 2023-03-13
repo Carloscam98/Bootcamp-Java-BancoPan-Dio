@@ -63,7 +63,7 @@ Bootcamp Banco PAN Java Developer <br/> Intermediário</h1>
 
   - [x] Desafio: Imprimindo Positivos e Média [Clique aqui para acessar o Código.](https://github.com/Carloscam98/Bootcamp-Java-BancoPan-Dio/tree/main/desafios/dois)
 
-  - [x] Desafio: Soma de H com N Termos [Clique aqui para acessar o Código](https://github.com/Carloscam98/Bootcamp-Java-BancoPan-Dio/tree/main/desafios/tres)
+  - [x] Desafio: Soma de H com N Termos [Clique aqui para acessar o Código.](https://github.com/Carloscam98/Bootcamp-Java-BancoPan-Dio/tree/main/desafios/tres)
 
   - [x] Desafio: Dragão! [Clique aqui para acessar o Código.](https://github.com/Carloscam98/Bootcamp-Java-BancoPan-Dio/tree/main/desafios/quatro)
 
@@ -119,19 +119,19 @@ Bootcamp Banco PAN Java Developer <br/> Intermediário</h1>
 
    # 8 Dominando Algoritmos Intermediários com Desafios de Código Java
 
-### [Desafios Aguardando Execução]
+### [Clique aqui para acessar TODOS os Desafios deste Módulo](https://github.com/Carloscam98/Bootcamp-Java-BancoPan-Dio/tree/main/desafiosintermediarios)
 
-  - [ ] Desafio: Animal 
+  - [x] Desafio: Animal [Clique aqui para acessar o Código.](https://github.com/Carloscam98/Bootcamp-Java-BancoPan-Dio/tree/main/desafiosintermediarios/um)
 
-  - [ ] Desafio: Quitanda do Seu Zé 
+  - [x] Desafio: Quitanda do Seu Zé [Clique aqui para acessar o Código.](https://github.com/Carloscam98/Bootcamp-Java-BancoPan-Dio/tree/main/desafiosintermediarios/dois)
 
-  - [ ] Desafio: Triângulo 
+  - [x] Desafio: Triângulo [Clique aqui para acessar o Código.](https://github.com/Carloscam98/Bootcamp-Java-BancoPan-Dio/tree/main/desafiosintermediarios/tres)
 
-  - [ ] Desafio: Conta Espaços e Vogais 
+  - [x] Desafio: Conta Espaços e Vogais [Clique aqui para acessar o Código.](https://github.com/Carloscam98/Bootcamp-Java-BancoPan-Dio/tree/main/desafiosintermediarios/quatro)
   
-  - [ ] Desafio: Taxa de Imposto de Renda 
+  - [x] Desafio: Taxa de Imposto de Renda [Clique aqui para acessar o Código.](https://github.com/Carloscam98/Bootcamp-Java-BancoPan-Dio/tree/main/desafiosintermediarios/cinco) 
 
-  - [ ] Avalie este Bootcamp
+  - [x] Avalie este Bootcamp
 
  <br/>
 
@@ -149,3 +149,4 @@ Bootcamp Banco PAN Java Developer <br/> Intermediário</h1>
   <a href = "mailto:morato.acarlos@gmail.com"><img height="25vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/contato.png?raw=true" target="_blank"></a><br>
 
 </div>
+
