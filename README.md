@@ -21,7 +21,7 @@ Bootcamp Banco PAN Java Developer <br/> Intermediário</h1>
 
   - [x] Introdução ao Desenvolvimento Moderno de Software 
 
-  - [ ] **Banco PAN Java Developer | Aula Inaugural**
+  - [x] **Banco PAN Java Developer | Aula Inaugural**
 
   <br/>
 
@@ -49,7 +49,7 @@ Bootcamp Banco PAN Java Developer <br/> Intermediário</h1>
 
   - [x] Estruturas de Repetição e Arrays em Java
   
-  - [ ] Estrutura de dados em Java
+  - [x] Estrutura de dados em Java
   
   - [x] Entendendo Métodos Java
 
@@ -83,19 +83,19 @@ Bootcamp Banco PAN Java Developer <br/> Intermediário</h1>
 
   - [x] Gerenciamento de Dependências e Build em Java com Maven
 
-  - [ ] Testes Unitários Com JUnit
+  - [x] Testes Unitários Com JUnit
   
-  - [ ] Abstraindo um Bootcamp Usando Orientação a Objetos em Java
+  - [x] Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 
  <br/>
 
   # 6 Trabalhando com Banco de Dados SQL e NoSQL
 
-  - [ ] Primeiros Passos com SQL
+  - [x] Primeiros Passos com SQL
 
-  - [ ] Introdução ao MongoDB e Bancos de Dados NoSQL
+  - [x] Introdução ao MongoDB e Bancos de Dados NoSQL
 
-  - [ ] Desafio de Projeto: Boas práticas com DynamoDB
+  - [x] Desafio de Projeto: Boas práticas com DynamoDB
 
  <br/>
 
@@ -107,13 +107,13 @@ Bootcamp Banco PAN Java Developer <br/> Intermediário</h1>
 
   - [x] Criando uma API REST Documentada com Spring Web e Swagger
 
-  - [ ] Adicionando Segurança a uma API REST com Spring Security
+  - [x] Adicionando Segurança a uma API REST com Spring Security
   
-  - [ ] Conhecendo Spring Data JPA na prática com Java
+  - [x] Conhecendo Spring Data JPA na prática com Java
   
-  - [ ] Criando uma API REST Conectada ao Amazon RDS com Java
+  - [x] Criando uma API REST Conectada ao Amazon RDS com Java
 
-  - [ ] Desafio de Projeto: Explorando Padrões de Projetos na Prática com Java
+  - [x] Desafio de Projeto: Explorando Padrões de Projetos na Prática com Java
 
  <br/>
 
@@ -137,9 +137,9 @@ Bootcamp Banco PAN Java Developer <br/> Intermediário</h1>
 
 <div align="center">
 
-# Bootcamp Em Andamento...
+# Bootcamp Concluído !
 
-<img src="https://media.tenor.com/XasjKGMk_wAAAAAC/load-loading.gif">
+![image](https://user-images.githubusercontent.com/114948535/233203006-7f2902dd-ddba-4488-8432-9f87095ae757.png)
 
 ### _#BootcampBancoPANJavaDeveloper_
 
