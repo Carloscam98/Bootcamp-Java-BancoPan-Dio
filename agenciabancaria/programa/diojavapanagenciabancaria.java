@@ -29,7 +29,7 @@ public class diojavapanagenciabancaria {
         System.out.println("|   Opção 6 - Sair          |");
 
         int operacao = input.nextInt();
-
+        input.nextLine();
         switch (operacao){
 
             case 1:
@@ -53,14 +53,14 @@ public class diojavapanagenciabancaria {
         }
     }
     public static void criarConta(){
-        System.out.println("\nNome: ");
-        String nome = input.next();
+        System.out.println("Nome: ");
+        String nome = input.nextLine();
 
-        System.out.println("\nCPF: ");
-        String cpf = input.next();
+        System.out.println("CPF: ");
+        String cpf = input.nextLine();
 
-        System.out.println("\nEmail: ");
-        String email = input.next();
+        System.out.println("Email: ");
+        String email = input.nextLine();
 
         Pessoa pessoa = new Pessoa(nome, cpf, email);
         Conta conta = new Conta(pessoa);

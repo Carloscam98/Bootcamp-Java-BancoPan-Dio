@@ -40,8 +40,8 @@ public class Pessoa {
     }
 
     public String toString(){
-        return  "\nNome: " + this.getNome() +
-                "\nCPF: " + this.getCpf() +
+        return  "\nNome: " + this.getNome()+
+                "\nCPF: " + this.getCpf()+
                 "\nEmail: " + this.getEmail();
     }
 
